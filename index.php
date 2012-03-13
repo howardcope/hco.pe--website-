@@ -39,9 +39,9 @@
         <div id="main">
             <div id="wrapper">
                 <h3><img alt="hco.pe" src="graphic_header.php?t=hco.pe&h=3&bg=ff|ff|ff&fc=99|00|00"  border="0" /></h3>
-                <h3><a target="aBlogWindow" href="http://final-days-of-salt.blogspot.com"><img alt="art blog" src="graphic_header.php?t=Art Blog&h=3&bg=ff|ff|ff&fc=ca|9c|4d" border="0" /></a></h3>
-                <h3><a target="pBlogWindow" href="http://saline-well.blogspot.com/"><img alt="photo blog" src="graphic_header.php?t=Photo Blog&h=3&bg=ff|ff|ff&fc=ca|9c|4d" border="0" /></a></h3>
-                <h3><a target="daWindow" href="http://final-days-of-salt.deviantart.com/gallery/"><img alt="deviant art" src="graphic_header.php?t=Deviant Art&h=3&bg=ff|ff|ff&fc=ca|9c|4d" border="0" /></a></h3>
+                <h3><a target="aBlogWindow" href="http://final-days-of-salt.blogspot.com"><img alt="art blog" src="graphic_header.php?t=Art Blog&h=3&bg=cc|cc|cc&fc=ca|9c|4d" border="0" /></a></h3>
+                <h3><a target="pBlogWindow" href="http://saline-well.blogspot.com/"><img alt="photo blog" src="graphic_header.php?t=Photo Blog&h=3&bg=cc|cc|cc&fc=ca|9c|4d" border="0" /></a></h3>
+                <h3><a target="daWindow" href="http://final-days-of-salt.deviantart.com/gallery/"><img alt="deviant art" src="graphic_header.php?t=Deviant Art&h=3&bg=cc|cc|cc&fc=ca|9c|4d" border="0" /></a></h3>
                 <div id="idximage"><img src="img/pix.gif" width="227" height="292" /></div>
             </div>
         </div>
